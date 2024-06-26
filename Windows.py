@@ -3,7 +3,9 @@ from tkinter import filedialog, Tk, Text, Scrollbar, Y, BOTH, LEFT, RIGHT, END, 
 from tkinter import messagebox
 from tkinter import Canvas
 
-
+#1
+#2
+#3
 def open_file():
     # Create a root window and hide it
     root = Tk()
